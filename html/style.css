@@ -1,0 +1,24 @@
+*{
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+
+nav{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+}
+.cart_text {
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    color: white;
+
+}
+li,a{
+    color: white;
+    font-size: 20px;
+
+}
