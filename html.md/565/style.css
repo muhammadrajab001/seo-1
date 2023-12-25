@@ -1,0 +1,56 @@
+* {
+    font-family:fantasy;
+    box-sizing: border-box;
+    text-decoration: none;
+
+
+}
+body{
+    width: 1440px;
+    background-color: #fff;
+}
+.cart_header{
+   
+    display: flex;
+    justify-content: space-between;
+   
+text-align: center;
+column-gap: 106px;
+padding: 40px 3px;
+position: fixed;
+
+}
+.leave{
+    margin-top: -4px;
+
+}
+    
+.cart_article{
+    display: table-caption;
+    margin-top: 191px;
+    margin-left: 95px;
+    font-size: 15px;
+
+}
+menu {
+    padding: 220px 115px;
+}
+
+.cart_menu{
+background-image: url("Rectangle\ 6.svg") no-repeat;
+font-size: 15px;
+font-weight: 500px;
+color: black
+}
+
+.menu{
+
+    position: relative;
+    top: -530px;
+    left: 578px;
+    font-size: 11px;
+}
+.world_footer{
+    background-image: url("Rectangle 10.svg");
+    margin-left: 121px;
+}
